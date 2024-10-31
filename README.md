@@ -25,4 +25,4 @@ Data Cleaning and Data Modeling :
 
 Throughout the data cleaning process, I meticulously attended to various aspects of the datasets, performing all operations in MySQL Workbench.
 
-Data cleaning was done separately, starting with the removal of blank entries to ensure data integrity. Subsequently, spelling errors were corrected to enhance data quality and maintain consistency. Unnecessary columns were removed to keep only the most important data. I also changed the column names to make the data easier to understand.
+Data cleaning was done separately and starting with the removal of blank entries to ensure data integrity. Subsequently, spelling errors were corrected to enhance data quality and maintain consistency. Unnecessary columns were removed to keep only the most important data. I also changed the column names to make the data easier to understand.
