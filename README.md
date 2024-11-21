@@ -1,7 +1,7 @@
 # Data-Analysis-and-Visualization
 Analysis on Social Buzz
 
-##Client’s Name: Social Buzz
+#Client’s Name: Social Buzz
 
 Client’s Industry: Social media & Content creation
 
